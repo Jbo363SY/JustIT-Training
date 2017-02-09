@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\JordanL\cSharp\oopCarsInputPractice\oppCarsInputPractice\bin\Debug\oppCarsInputPractice.exe.config
+C:\Users\student\Desktop\JordanL\cSharp\oopCarsInputPractice\oppCarsInputPractice\bin\Debug\oppCarsInputPractice.exe
+C:\Users\student\Desktop\JordanL\cSharp\oopCarsInputPractice\oppCarsInputPractice\bin\Debug\oppCarsInputPractice.pdb
+C:\Users\student\Desktop\JordanL\cSharp\oopCarsInputPractice\oppCarsInputPractice\obj\Debug\oppCarsInputPractice.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\JordanL\cSharp\oopCarsInputPractice\oppCarsInputPractice\obj\Debug\oppCarsInputPractice.exe
+C:\Users\student\Desktop\JordanL\cSharp\oopCarsInputPractice\oppCarsInputPractice\obj\Debug\oppCarsInputPractice.pdb

@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\JordanL\cSharp\oopVehicleInheritancePractice\oopVehicleInheritancePractice\bin\Debug\oopVehicleInheritancePractice.exe.config
+C:\Users\student\Desktop\JordanL\cSharp\oopVehicleInheritancePractice\oopVehicleInheritancePractice\obj\Debug\oopVehicleInheritancePractice.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\JordanL\cSharp\oopVehicleInheritancePractice\oopVehicleInheritancePractice\bin\Debug\oopVehicleInheritancePractice.exe
+C:\Users\student\Desktop\JordanL\cSharp\oopVehicleInheritancePractice\oopVehicleInheritancePractice\bin\Debug\oopVehicleInheritancePractice.pdb
+C:\Users\student\Desktop\JordanL\cSharp\oopVehicleInheritancePractice\oopVehicleInheritancePractice\obj\Debug\oopVehicleInheritancePractice.exe
+C:\Users\student\Desktop\JordanL\cSharp\oopVehicleInheritancePractice\oopVehicleInheritancePractice\obj\Debug\oopVehicleInheritancePractice.pdb
